@@ -1,0 +1,414 @@
+{
+    "Warm-Up": [
+        {
+            "title": "March in Place",
+            "category": "Flexibility",
+            "description": "A low-impact exercise that helps warm up the body and improve flexibility, allowing for greater ease of movement and reducing the risk of injury during more intense workouts.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/march_in_place.gif",
+            "instructions": "March in place, lifting your knees and pumping your arms.",
+            "common_mistakes": "Avoid overstriding. keep your pace light and steady.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Jumping Jacks",
+            "category": "Cardiovascular Health",
+            "description": "A classic cardio exercise that boosts your heart rate and improves cardiovascular fitness, ensuring enhanced blood flow and stamina during physical activities.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/jumping_jacks.gif",
+            "instructions": "1. Stand with feet together and arms at your sides. 2. Jump while spreading your legs and raising your arms. 3. Return to starting position and repeat.",
+            "common_mistakes": "Don't slouch. keep your posture straight. Avoid jerky movements. Ensure a smooth jump and landing.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Mountain Climbers",
+            "category": "Flexibility",
+            "description": "Mountain Climbers help increase flexibility while engaging core muscles, promoting better movement and range of motion, which supports overall physical and sexual endurance.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/mountain_climbers.gif",
+            "instructions": "Start in a plank position. Quickly alternate bringing one knee towards your chest and then the other, keeping your core tight throughout.",
+            "common_mistakes": "Avoid letting your hips drop or rise. maintain a straight body line.",
+            "duration": "",
+            "repeats": 12
+        },
+        
+        {
+            "title": "Pelvic Floor Squeeze",
+            "category": "Pelvic Stability",
+            "description": "An exercise focusing on contracting and relaxing the pelvic floor muscles to improve stability and control, aiding in maintaining stamina and erection quality.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/pelvic_floor_squeeze.gif",
+            "instructions": "Contract your pelvic floor muscles, hold for a few seconds, then release. Repeat the contraction and release.",
+            "common_mistakes": "Avoid tensing the abdominal muscles. focus on the pelvic area.",
+            "duration": "",
+            "repeats": 15
+        },
+        {
+            "title": "Lateral Lunges",
+            "category": "Increased Sex Time",
+            "description": "Lateral Lunges engage the leg and pelvic muscles, contributing to better endurance and flexibility, which can support longer-lasting sexual performance and increased stamina.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/lateral_lunges.webp",
+            "instructions": "Step out to the side with one leg and lower your hips, keeping the other leg straight. Push off with the bent leg to return to the starting position. Repeat on the other side.",
+            "common_mistakes": "Avoid letting your knee extend past your toes. maintain a controlled motion and keep the torso upright.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Pelvic Tilts",
+            "category": "Erectile Function",
+            "description": "Pelvic Tilts target the pelvic region and lower back, improving blood circulation and muscle engagement, which aids in erectile function and overall sexual health.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/pelvic_tilts.gif",
+            "instructions": "Lie on your back with knees bent. Flatten your back against the floor by tilting your pelvis upwards, then relax.",
+            "common_mistakes": "Avoid arching your back. keep movements slow and controlled.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Hold and Release Kegel",
+            "category": "Sexual Stamina",
+            "description": "Hold and Release Kegel exercises improve pelvic floor strength, aiding in sexual endurance and performance by providing better control over ejaculation and maintaining an erection.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/kegal_animation.webp",
+            "instructions": "1. Sit or lie down comfortably. 2. Tighten the muscles you'd use to stop urination. 3. Hold and release.",
+            "common_mistakes": "Avoid using your stomach or leg muscles. Focus on pelvic muscles only.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Romanian Deadlifts Right",
+            "category": "Erectile Function",
+            "description": "This balance-based exercise strengthens the hamstrings and pelvic floor, supporting better blood flow and muscle control, which is key to maintaining erectile function.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/romanian_deadlift_right.gif",
+            "instructions": "Stand on one leg, hinge at the hips and lower your torso while extending the other leg back. Return to start and switch legs.",
+            "common_mistakes": "Avoid rounding your back. keep your movements controlled.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Standing Toe Touch",
+            "category": "Core Strength",
+            "description": "The Standing Toe Touch improves flexibility in the hamstrings and lower back, which can help improve posture and stamina during physical activities, including sexual performance.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/standing_toe_touches.gif",
+            "instructions": "Stand with feet hip-width apart and bend forward at the hips to touch your toes. Hold the stretch without bouncing.",
+            "common_mistakes": "Avoid rounding your back. keep your knees slightly bent.",
+            "duration": 20,
+            "repeats": ""
+        }
+       
+
+    ],
+    "Main Workout": [
+        {
+            "title": "Prone Pelvic Rotations",
+            "category": "Pelvic Stability",
+            "description": "A low-impact exercise that improves flexibility and strengthens the lower back and core, focusing on pelvic stability. This exercise helps warm up the body and enhances mobility, reducing the risk of injury during more intense workouts.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/prone_pelvic_rotation.webp",
+            "instructions": "Start in a prone position, with your body horizontal to the floor, arms extended in front of you. Begin by rotating your lower back, pelvis, and glutes in slow circular motions. Complete the circle in one direction before switching to the other.",
+            "common_mistakes": "Avoid arching your lower back excessively. Keep your core engaged throughout the movement, and perform the rotations slowly to maintain control and prevent strain.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Pelvic Side Press",
+            "category": "Pelvic Stability",
+            "description": "A low-impact exercise that strengthens the lower back and core while improving pelvic stability. This exercise mimics controlled pelvic movements, enhancing coordination and flexibility, often used for improving mobility in the pelvic region.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/pelvic_side_press.webp",
+            "instructions": "Start in a prone position, with your body horizontal to the floor and arms extended in front. Slowly press one side of your lower back towards the ground, alternating sides as if you're pushing each hip down one at a time. Focus on engaging the pelvic muscles with each press.",
+            "common_mistakes": "Avoid pushing too forcefully, as this can strain the lower back. Maintain control by engaging your core muscles and move slowly. Keep your torso stable to isolate the pelvic movement.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Prone Pelvic Thrust",
+            "category": "Pelvic Stability",
+            "description": "A low-impact exercise that strengthens the lower back, core, and pelvic muscles, focusing on controlled thrusting movements. This exercise improves pelvic mobility, stability, and coordination, simulating a forward thrust while maintaining proper form.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/prone_pelvic_thrust.webp",
+            "instructions": "Start in a prone position, with your body horizontal to the floor, arms extended forward, and only your toes touching the ground. Engage your core and glutes, then push your pelvis downwards towards the floor in a controlled thrusting motion, as if you are pushing forward into a surface. Keep your legs straight and avoid arching your back.",
+            "common_mistakes": "Avoid bending your knees or arching your lower back excessively. Keep the movement controlled to engage the pelvic muscles properly and prevent lower back strain. Ensure that the motion comes from the hips and pelvis, not the upper body.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Thrust Jumps",
+            "category": "Pelvic Stability",
+            "description": "A dynamic exercise that strengthens the lower back, core, and pelvic muscles, combining a thrusting motion with a jumping movement to increase intensity. This exercise improves pelvic stability, coordination, and flexibility, while engaging the entire lower body and core.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/thrust_jumps.webp",
+            "instructions": "Start in a prone position, with your body horizontal to the floor, arms extended forward, and only your toes touching the ground. Perform a controlled pelvic thrust by pushing your pelvis towards the floor. Immediately after the thrust, jump with your legs, bringing your feet towards your hands in one swift movement, creating a flipped V-shape. Your hands should remain stationary throughout the exercise. Return to the starting position and repeat.",
+            "common_mistakes": "Avoid letting your hips sag during the thrust or arching your lower back. Ensure that your jump is controlled, and avoid using momentum from your upper body. Keep your core engaged throughout the movement to protect your lower back and improve form.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Pelvic Attack",
+            "category": "Pelvic Stability",
+            "description": "An intense exercise that strengthens the core, lower back, and pelvic muscles, mimicking thrusting motions. This exercise focuses on pelvic stability, improving coordination, mobility, and endurance in the lower body while engaging the core for support.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/pelvic_attack.webp",
+            "instructions": "Start in a prone position with your hands and toes touching the ground, keeping your upper body higher than your lower body. Engage your core and glutes, and perform controlled, rhythmic thrusting motions with your hips, mimicking a forward motion. Focus on keeping the upper body stable while moving the hips and pelvis forward and backward.",
+            "common_mistakes": "Avoid letting your hips sag or raising your body too high during the thrust. Keep your core engaged to maintain stability and prevent lower back strain. Ensure that the motion remains controlled and does not rely on momentum.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Vertical Hip Swing",
+            "category": "Pelvic Stability",
+            "description": "A dynamic exercise that strengthens the core, lower back, and pelvic muscles by incorporating vertical swinging motions. This exercise focuses on pelvic control and stability, improving flexibility, coordination, and endurance in the lower body and core.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/vertical_hip_swing.webp",
+            "instructions": "Start in a prone position with your hands and toes touching the ground, ensuring your upper body is elevated. Engage your core and glutes as you swing your hips vertically. When swinging down, let your knees lightly touch the ground in a controlled manner. As you swing upward, extend your hips in a thrusting motion, lifting your pelvis and lower body upward as if pushing forward. Maintain stability with your upper body, and focus on the smooth, rhythmic motion of your hips.",
+            "common_mistakes": "Avoid letting your hips collapse during the downward swing or using excessive force. Keep the motion controlled and fluid, and engage your core to prevent lower back strain. Ensure that the movement is powered by your hips and pelvis rather than momentum.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Sky Thrust",
+            "category": "Pelvic Stability",
+            "description": "An intense exercise that strengthens the core, lower back, and pelvic muscles by combining a reverse cat-cow pose with upward thrusting movements. This exercise focuses on pelvic mobility, improving flexibility, stability, and core strength, while engaging the entire lower body.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/sky_thrust.webp",
+            "instructions": "Start in a reverse tabletop position with your hands and feet firmly planted on the ground, chest and face facing upwards towards the sky. Your body should form a bridge with your hips elevated. Engage your glutes and core, and begin thrusting your hips upwards in a controlled motion as if pushing towards an imaginary target in the sky. Keep your feet and hands stable while focusing on lifting the pelvis in smooth, rhythmic movements.",
+            "common_mistakes": "Avoid over-arching your lower back during the upward thrust. Maintain control throughout the movement by engaging your core, and ensure that your hips do not dip too low when returning to the starting position. Avoid using momentum; focus on using your pelvic muscles to perform the thrust.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Advanced Bridges",
+            "category": "Pelvic Stability",
+            "description": "A foundational exercise that strengthens the glutes, lower back, and core by performing a controlled thrusting motion. The glute bridge improves pelvic stability, core strength, and flexibility in the hips, while engaging the entire posterior chain.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/advanced_bridges.webp",
+            "instructions": "Start by lying flat on your back with your knees bent and your feet flat on the floor, positioned close to your glutes. Your arms should be down by your sides, with your fingers close to your heels. Engage your glutes and core, then press through your heels to lift your hips off the ground, forming a straight line from your shoulders to your knees, creating a bridge-like structure. Hold briefly at the top, then slowly lower your hips back down to the ground.",
+            "common_mistakes": "Avoid overextending your lower back at the top of the movement. Keep your core engaged throughout to prevent arching, and make sure your knees stay aligned with your hips to avoid strain. Don't use momentum—focus on controlled, smooth movement powered by your glutes.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Back Burden",
+            "category": "Pelvic Stability",
+            "description": "A high-intensity pelvic stability exercise that strengthens the core, glutes, and lower back by focusing on rapid, controlled thrusting motions. This exercise enhances pelvic mobility, control, and endurance, mimicking quick pelvic thrusts to engage the lower body effectively.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/back_burden.webp",
+            "instructions": "Start in a prone position, with your body horizontal to the floor, arms extended in front of you, and only your toes touching the ground. Engage your core and glutes as you push your pelvis forward in rapid, short thrusting motions, mimicking a fast penetration-like movement. Keep your legs straight and maintain contact with the ground using your toes, focusing on generating the motion from your pelvis.",
+            "common_mistakes": "Avoid excessive force or overextending your back during the thrusts. Keep the movement controlled and quick, powered by your core and pelvic muscles. Ensure your upper body remains stable and avoid using momentum from your torso to assist with the movement.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Rotating Back Burden",
+            "category": "Pelvic Stability",
+            "description": "An advanced pelvic stability exercise that strengthens the core, lower back, and glutes through rotational thrusting movements. This exercise emphasizes pelvic control and mobility while engaging the muscles of the lower body and core in a dynamic manner, improving stability and coordination.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/rotating_back_burden.webp",
+            "instructions": "Start in a prone position with your body horizontal to the floor, arms extended forward, and only your toes touching the ground. Engage your core and glutes, and begin rotating your hips side to side while thrusting backward. Rotate your pelvis in circular motions, alternating between pushing your hips backward and slightly upward as you move in a rhythmic, rotational manner. Keep the movement smooth and controlled, engaging your core to maintain stability.",
+            "common_mistakes": "Avoid excessive twisting of the lower back, as this can lead to strain. Keep the motion controlled and avoid relying on momentum from your upper body. Focus on engaging your core and glutes to power the movement, ensuring that the rotation remains steady and does not compromise form.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Slanted Hip Thrust",
+            "category": "Pelvic Stability",
+            "description": "A pelvic stability exercise that strengthens the core, lower back, and glutes through controlled, angled thrusting motions. This exercise emphasizes pelvic control, stability, and mobility, focusing on engaging the lower body and core while simulating thrusting motions in a slanted position.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/slanted_hip_thrust.webp",
+            "instructions": "Start on the ground with your elbows, palms, and knees touching the floor, keeping your hips slanted downwards. Engage your core and glutes, then begin thrusting your hips forward in a controlled motion, focusing on your pelvic area. Your upper body remains stable with palms pressed firmly into the ground while your hips move forward and backward in a rhythmic, thrusting pattern. Keep your legs bent at a 90-degree angle, with your feet elevated slightly off the ground.",
+            "common_mistakes": "Avoid arching your lower back too much or letting your hips dip too low. Keep the movement controlled, powered by your pelvic muscles, and avoid using momentum from your upper body. Focus on engaging the core to maintain stability and prevent strain on the lower back.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "V-Thrust",
+            "category": "Pelvic Stability",
+            "description": "An advanced pelvic stability exercise that engages the core, lower back, and glutes through rotational thrusting movements. This variation incorporates a V-shaped leg position, enhancing pelvic control, mobility, and stability while strengthening the entire lower body.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/v_thrust.webp",
+            "instructions": "Begin on the floor with your fists held together, resting on the ground, and your elbows, palms, and knees in contact with the surface. Position your legs wide apart in a V shape, with only your toes touching the ground. Engage your core and glutes as you perform thrusting motions with your pelvis, rotating your lower back in a controlled manner. Focus on maintaining stability in your upper body while generating smooth, rhythmic thrusts downward as if aiming for an imaginary target below.",
+            "common_mistakes": "Avoid overextending or twisting your lower back excessively during the thrusts. Keep the movement controlled and steady, ensuring you don't rely on momentum from your upper body. Maintain engagement of your core to prevent strain and support the stability of your lower back throughout the exercise.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Deep V-Thrusts",
+            "category": "Pelvic Stability",
+            "description": "A focused pelvic stability exercise that strengthens the core, glutes, and lower back through controlled thrusting motions. This variation features both knees and toes in contact with the ground, enhancing pelvic control and stability while engaging the entire lower body.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/deep_v_thrust.webp",
+            "instructions": "Start in a kneeling position with your elbows and palms touching the ground, and your knees and toes firmly planted on the floor. Engage your core and glutes, then perform thrusting motions with your pelvis downward, focusing on a smooth, rhythmic movement. Ensure your upper body remains stable while directing the thrusts as if aiming for an imaginary target below. Keep your legs in a wide stance to enhance stability.",
+            "common_mistakes": "Avoid excessive arching of your lower back during the thrusts. Maintain a controlled motion, ensuring you do not rely on momentum from your upper body. Keep your core engaged to prevent strain and support stability throughout the exercise.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Supine Leg Raise",
+            "category": "Core Strength",
+            "description": "This core-strengthening exercise targets the lower abdominal muscles, enhancing core stability and promoting overall strength, which is beneficial for improving posture and supporting sexual health.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/supine_leg_raise.gif",
+            "instructions": "Lie on your back with legs extended. Lift your legs to a 90-degree angle, then lower them slowly without touching the ground.",
+            "common_mistakes": "Avoid arching your lower back. keep your legs straight and controlled.",
+            "duration": "",
+            "repeats": 8
+        },
+        {
+            "title": "Plank",
+            "category": "Core Strength",
+            "description": "The Plank strengthens the core muscles, improving posture, stability, and endurance, all of which contribute to longer-lasting stamina and control during physical and sexual activities.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/plank.png",
+            "instructions": "1. Lie face down. 2. Lift your body onto your toes and forearms. 3. Keep your body in a straight line from head to heels.",
+            "common_mistakes": "Don't let your hips sag. Keep your body in a straight line and engage your core.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Glute Bridges",
+            "category": "Pelvic Stability",
+            "description": "Glute Bridges specifically target the glutes and pelvic floor muscles, enhancing pelvic stability and control, which supports better performance and stamina during sexual activities.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/glute_bridges.gif",
+            "instructions": "Lie on your back with knees bent and feet flat on the floor. Lift your hips towards the ceiling, then lower back down.",
+            "common_mistakes": "Avoid arching your lower back. keep movements controlled.",
+            "duration": "",
+            "repeats": 15
+        },
+        {
+            "title": "Hip Thrusts",
+            "category": "Sexual Stamina",
+            "description": "Hip Thrusts are designed to strengthen the glutes, hips, and pelvic floor muscles, increasing sexual stamina and promoting better control during intimate activities.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/hip_thrusts.webp",
+            "instructions": "Sit on the ground with your upper back resting on a bench. Roll a barbell or weight over your hips. Push your hips upward and squeeze your glutes at the top.",
+            "common_mistakes": "Avoid arching your lower back. keep the movement controlled.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Sumo Squat",
+            "category": "Increase Testosterone",
+            "description": "Sumo Squats boost leg and pelvic strength while promoting the production of testosterone, which is essential for maintaining sexual health, libido, and performance.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/sumo_squat.gif",
+            "instructions": "Stand with feet wider than shoulder-width apart and toes pointed outward. Lower your hips back and down, keeping your knees aligned with your toes. Return to standing position.",
+            "common_mistakes": "Avoid letting knees cave in. keep your back straight and chest up.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Romanian Deadlifts Right",
+            "category": "Erectile Function",
+            "description": "This balance-based exercise strengthens the hamstrings and pelvic floor, supporting better blood flow and muscle control, which is key to maintaining erectile function.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/romanian_deadlift_right.gif",
+            "instructions": "Stand on one leg, hinge at the hips and lower your torso while extending the other leg back. Return to start and switch legs.",
+            "common_mistakes": "Avoid rounding your back. keep your movements controlled.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Frog Thrusts",
+            "category": "Pelvic Stability and Sexual Performance",
+            "description": "A dynamic exercise that mimics the motion of sexual intercourse, focusing on pelvic stability, mobility, and core engagement. This exercise strengthens the lower body, glutes, and pelvic muscles, improving control, endurance, and flexibility during intimate activities.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/frog_thrust.gif",
+            "instructions": "Start in a frog-like position with your palms flat on the ground, arms vertical, and knees and toes touching the ground. Your legs should be spread wide, resembling a frog stance. Engage your core and begin thrusting your hips in a controlled, rhythmic motion, simulating the movement of sexual intercourse. Focus on smooth hip movement, keeping your upper body stable while driving the motion from your pelvis.",
+            "common_mistakes": "Avoid using excessive force or letting your lower back arch too much during the thrusts. Maintain control throughout the motion, and ensure your core is engaged to support your lower back and prevent strain. Avoid relying on momentum from the upper body. focus on pelvic-driven movements.",
+            "duration": "20 seconds",
+            "repeats": 12
+        },
+        {
+            "title": "Standing Toe Touch",
+            "category": "Core Strength",
+            "description": "The Standing Toe Touch improves flexibility in the hamstrings and lower back, which can help improve posture and stamina during physical activities, including sexual performance.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/standing_toe_touches.gif",
+            "instructions": "Stand with feet hip-width apart and bend forward at the hips to touch your toes. Hold the stretch without bouncing.",
+            "common_mistakes": "Avoid rounding your back. keep your knees slightly bent.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Butterfly Hip Thrusts",
+            "category": "Sexual Stamina",
+            "description": "Butterfly Hip Thrusts target the glutes and pelvic floor, promoting improved sexual stamina and muscle control. This exercise enhances blood flow and strengthens the muscles crucial for better sexual endurance and performance.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/butterfly_hip_thrusts.gif",
+            "instructions": "1. Sit on the ground with your back resting against a bench or elevated surface. 2. Place the soles of your feet together, with knees bent outward. 3. Drive through your heels and thrust your hips upward, squeezing your glutes at the top. 4. Lower your hips back down to the starting position.",
+            "common_mistakes": "Avoid arching your lower back excessively. focus on using your glutes and core to lift your hips.",
+            "duration": "",
+            "repeats": 15
+        }
+        
+        
+    ]
+        ,
+    "Cooldown": [
+        {
+            "title": "Standing Quad Stretch Right",
+            "category": "Flexibility",
+            "description": "A stretch focusing on the quadriceps and hips, enhancing flexibility and reducing muscle tension.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/standing_quad_stretch_right.gif",
+            "instructions": "1. Stand on one leg. 2. Pull the other foot towards your butt with your hand. 3. Keep your knees together. 4. Hold for 10 seconds. 5. Switch legs.",
+            "common_mistakes": "Don't arch your back. Keep knees together. Stretch gently, no pain. Hold onto something if you're wobbly.",
+            "duration": 10,
+            "repeats": ""
+        },
+        {
+            "title": "Cobra Pose",
+            "category": "Stress Releasing",
+            "description": "The Cobra Pose opens the chest and stretches the abdomen, promoting relaxation and reducing tension in the body, which helps in releasing stress after physical activity.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/cobra_pose.gif",
+            "instructions": "Lie face down, push up with your hands, arching your back and stretching your chest.",
+            "common_mistakes": "Don't overextend. keep hips on the ground.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Child's Pose",
+            "category": "Stress Releasing",
+            "description": "This calming yoga posture helps release tension in the lower back and hips, promoting relaxation and reducing stress after intense physical activities.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/childs_pose.gif",
+            "instructions": "1. Kneel on the floor with toes touching and knees apart. 2. Sit back on your heels and extend your arms forward. 3. Rest your forehead on the floor and breathe deeply. 4. Hold for 20 seconds.",
+            "common_mistakes": "Don't force your forehead to the ground. Keep your arms extended and relaxed. Avoid tensing your shoulders.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Diaphragmatic Breathing",
+            "category": "Stress Reduction",
+            "description": "This breathing exercise focuses on deep, controlled breaths, which help reduce anxiety, lower stress levels, and improve mental clarity after a workout.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/breath-in-and-out.gif",
+            "instructions": "Sit or lie down comfortably. Inhale deeply through the nose, hold briefly, and exhale slowly through the mouth.",
+            "common_mistakes": "Avoid shallow breathing. focus on deep, slow breaths.",
+            "duration": 120,
+            "repeats": ""
+        },
+        {
+            "title": "Spinal Twists",
+            "category": "Stress Releasing",
+            "description": "Spinal Twists relieve tension in the back and shoulders, promoting relaxation and releasing stress after a workout or long day, supporting overall well-being.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/spinal_twist_right.gif",
+            "instructions": "Lie on your back with arms extended out to the sides. Bend one knee and bring it across your body towards the opposite side. Keep your shoulders on the ground and hold for 20 seconds per side.",
+            "common_mistakes": "Avoid lifting your shoulders off the ground. keep movements slow and controlled to avoid strain.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Standing Toe Touches",
+            "category": "Flexibility",
+            "description": "A stretch that focuses on improving flexibility in the hamstrings and lower back, enhancing overall range of motion and reducing muscle tightness.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/standing_toe_touches.gif",
+            "instructions": "Stand with feet hip-width apart. Reach down towards your toes, keeping your legs straight. Hold for 10 seconds, then slowly return to the starting position.",
+            "common_mistakes": "Avoid bouncing. reach down slowly and maintain a straight back.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Chair Pose",
+            "category": "Increase Testosterone",
+            "description": "The Chair Pose engages the lower body and core, promoting muscle growth and testosterone production, which supports overall physical and sexual vitality.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/chair_pose.gif",
+            "instructions": "Stand with feet together, bend your knees and lower your hips as if sitting in a chair. Hold the position with your arms extended overhead.",
+            "common_mistakes": "Avoid letting your knees cave inward. keep your weight in your heels.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Cat-Cow Pose",
+            "category": "Stress Reduction",
+            "description": "This gentle yoga pose helps reduce stress by improving flexibility in the spine and promoting relaxation. It's ideal for reducing tension and promoting mental focus after a workout.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/cat_cow.gif",
+            "instructions": "1. Start on your hands and knees in a tabletop position. 2. Inhale as you arch your back, dropping your belly (Cow Pose). 3. Exhale as you round your back, tucking your chin to your chest (Cat Pose). 4. Move smoothly between the two poses, coordinating with your breath. 5. Repeat 12 times.",
+            "common_mistakes": "Don't rush. move slowly and with control. Avoid straining your neck. keep it relaxed. Keep your movements fluid, not jerky. Focus on deep breathing for better results.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Hold and Release Kegel",
+            "category": "Sexual Stamina",
+            "description": "Hold and Release Kegel exercises improve pelvic floor strength, aiding in sexual endurance and performance by providing better control over ejaculation and maintaining an erection.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/kegal_animation.webp",
+            "instructions": "1. Sit or lie down comfortably. 2. Tighten the muscles you'd use to stop urination. 3. Hold and release.",
+            "common_mistakes": "Avoid using your stomach or leg muscles. Focus on pelvic muscles only.",
+            "duration": 20,
+            "repeats": ""
+        }
+    ]
+}
