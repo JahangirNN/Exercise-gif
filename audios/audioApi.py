@@ -3,7 +3,7 @@ from datetime import datetime
 import wave
 
 # Replace with your actual API token
-TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzA4NDAzYTU4MzJiMTcyYzJkMWI5MWEiLCJrZXlOYW1lIjoibXktbmV3LWFwaSIsImlhdCI6MTcyOTE1MjE5MX0.VKRRfWJZt0OHJBij9doiP1uKfm18ZuhymJR2eXIgjsE"
+TOKEN = ""
 
 # API URL
 url = "http://waves-api.smallest.ai/api/v1/lightning/get_speech"
