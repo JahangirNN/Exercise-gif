@@ -1,0 +1,370 @@
+{
+    "Warm-Up": [
+            {
+                "title": "March in Place",
+                "category": "Flexibility",
+                "description": "A low-impact exercise that helps warm up the body and improve flexibility, allowing for greater ease of movement and reducing the risk of injury during more intense workouts.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/march_in_place.webp",
+                "instructions": "March in place, lifting your knees and pumping your arms.",
+                "common_mistakes": "Avoid overstriding. Keep your pace light and steady.",
+                "duration": 20,
+                "repeats": ""
+            },
+            {
+                "title": "Jumping Jacks",
+                "category": "Cardiovascular Health",
+                "description": "A classic cardio exercise that boosts your heart rate and improves cardiovascular fitness, ensuring enhanced blood flow and stamina during physical activities.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/jumping_jacks.webp",
+                "instructions": "Stand with feet together and arms at your sides. Jump while spreading your legs and raising your arms. Return to starting position and repeat.",
+                "common_mistakes": "Don't slouch. Keep your posture straight. Avoid jerky movements. Ensure a smooth jump and landing.",
+                "duration": 20,
+                "repeats": ""
+            },
+            {
+                "title": "Mountain Climbers",
+                "category": "Core Strength",
+                "description": "Mountain Climbers engage core muscles, promoting better movement and range of motion, enhancing overall physical endurance and stamina.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/mountain_climbers.webp",
+                "instructions": "Start in a plank position. Quickly alternate bringing one knee towards your chest and then the other, keeping your core tight throughout.",
+                "common_mistakes": "Avoid letting your hips drop or rise. Maintain a straight body line.",
+                "duration": "",
+                "repeats": 12
+            },
+            {
+                "title": "Pelvic Floor Squeeze",
+                "category": "Pelvic Stability",
+                "description": "An exercise focusing on contracting and relaxing the pelvic floor muscles to improve stability and control, which supports overall physical health and stamina.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/pelvic_floor_squeeze.gif",
+                "instructions": "Contract your pelvic floor muscles, hold for a few seconds, then release. Repeat the contraction and release.",
+                "common_mistakes": "Avoid tensing the abdominal muscles. Focus on the pelvic area.",
+                "duration": "",
+                "repeats": 15
+            },
+            {
+                "title": "Lateral Lunges",
+                "category": "Leg Strength",
+                "description": "Lateral Lunges engage the leg and pelvic muscles, contributing to better endurance and flexibility, which can support longer-lasting performance.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/lateral_lunges.webp",
+                "instructions": "Step out to the side with one leg and lower your hips, keeping the other leg straight. Push off with the bent leg to return to the starting position. Repeat on the other side.",
+                "common_mistakes": "Avoid letting your knee extend past your toes. Maintain a controlled motion and keep the torso upright.",
+                "duration": "",
+                "repeats": 12
+            },
+            {
+                "title": "Pelvic Tilts",
+                "category": "Core Strength",
+                "description": "Pelvic Tilts target the pelvic region and lower back, improving blood circulation and muscle engagement, contributing to overall fitness and function.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/glute_bridges.webp",
+                "instructions": "Lie on your back with knees bent. Flatten your back against the floor by tilting your pelvis upwards, then relax.",
+                "common_mistakes": "Avoid arching your back. Keep movements slow and controlled.",
+                "duration": "",
+                "repeats": 10
+            },
+            {
+                "title": "Hold and Release Kegel",
+                "category": "Core Strength",
+                "description": "Hold and Release Kegel exercises improve pelvic floor strength, aiding in overall endurance and performance by providing better control and stability.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/kegal_animation.webp",
+                "instructions": "Sit or lie down comfortably. Tighten the muscles you'd use to stop urination. Hold and release.",
+                "common_mistakes": "Avoid using your stomach or leg muscles. Focus on pelvic muscles only.",
+                "duration": 20,
+                "repeats": ""
+            },
+            {
+                "title": "Romanian Deadlifts Right",
+                "category": "Leg Strength",
+                "description": "This balance-based exercise strengthens the hamstrings and pelvic floor, supporting better blood flow and muscle control for overall fitness.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/romanian_deadlift_right.webp",
+                "instructions": "Stand on one leg, hinge at the hips and lower your torso while extending the other leg back. Return to start and switch legs.",
+                "common_mistakes": "Avoid rounding your back. Keep your movements controlled.",
+                "duration": "",
+                "repeats": 5
+            },
+            {
+                "title": "Romanian Deadlifts Left",
+                "category": "Leg Strength",
+                "description": "This balance-based exercise strengthens the hamstrings and pelvic floor, supporting better blood flow and muscle control for overall fitness.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/romanian_deadlift_left.webp",
+                "instructions": "Stand on one leg, hinge at the hips and lower your torso while extending the other leg back. Return to start and switch legs.",
+                "common_mistakes": "Avoid rounding your back. Keep your movements controlled.",
+                "duration": "",
+                "repeats": 5
+            },
+            {
+                "title": "Standing Toe Touch",
+                "category": "Flexibility",
+                "description": "The Standing Toe Touch improves flexibility in the hamstrings and lower back, which can help improve posture and stamina during physical activities.",
+                "image": "https://jahangirnn.github.io/Exercise-gif/exercises/standing_toe_touches.webp",
+                "instructions": "Stand with feet hip-width apart and bend forward at the hips to touch your toes. Hold the stretch without bouncing.",
+                "common_mistakes": "Avoid rounding your back. Keep your knees slightly bent.",
+                "duration": 20,
+                "repeats": ""
+            }
+        ],
+    "Main Workout": [
+        {
+            "title": "Prone Pelvic Rotations",
+            "category": "Core Stability",
+            "description": "A low-impact exercise that improves flexibility and strengthens the lower back and core, focusing on pelvic stability. This exercise helps warm up the body and enhances mobility, reducing the risk of injury during more intense workouts.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/prone_pelvic_rotation.webp",
+            "instructions": "Rotate your lower back, pelvis, and glutes in a circle. Complete one circle, then switch directions.",
+            "common_mistakes": "Avoid arching your lower back excessively. Keep your core engaged throughout the movement, and perform the rotations slowly to maintain control and prevent strain.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Pelvic Side Press",
+            "category": "Core Strength",
+            "description": "A low-impact exercise that strengthens the lower back and core while improving pelvic stability. This exercise mimics controlled pelvic movements, enhancing coordination and flexibility, often used for improving mobility in the pelvic region.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/pelvic_side_press.webp",
+            "instructions": "Press one side of your lower back toward the ground, alternating sides. Engage your pelvic muscles with each press.",
+            "common_mistakes": "Avoid pushing too forcefully, as this can strain the lower back. Maintain control by engaging your core muscles and move slowly. Keep your torso stable to isolate the pelvic movement.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Prone Pelvic Thrust",
+            "category": "Lower Body Strength",
+            "description": "A low-impact exercise that strengthens the lower back, core, and pelvic muscles, focusing on controlled thrusting movements. This exercise improves pelvic mobility, stability, and coordination, simulating a forward thrust while maintaining proper form.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/prone_pelvic_thrust.webp",
+            "instructions": "Engage your core and glutes. Thrust your pelvis down, keeping legs straight and back flat.",
+            "common_mistakes": "Avoid bending your knees or arching your lower back excessively. Keep the movement controlled to engage the pelvic muscles properly and prevent lower back strain. Ensure that the motion comes from the hips and pelvis, not the upper body.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Thrust Jumps",
+            "category": "Cardio & Core",
+            "description": "A dynamic exercise that strengthens the lower back, core, and pelvic muscles, combining a thrusting motion with a jumping movement to increase intensity. This exercise improves pelvic stability, coordination, and flexibility, while engaging the entire lower body and core.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/thrust_jump.webp",
+            "instructions": "Thrust your pelvis, then jump your feet to your hands to form a V-shape. Keep hands still. Return, and repeat.",
+            "common_mistakes": "Avoid letting your hips sag during the thrust or arching your lower back. Ensure that your jump is controlled, and avoid using momentum from your upper body. Keep your core engaged throughout the movement to protect your lower back and improve form.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Pelvic Attack",
+            "category": "Core & Stability",
+            "description": "An intense exercise that strengthens the core, lower back, and pelvic muscles, mimicking thrusting motions. This exercise focuses on pelvic stability, improving coordination, mobility, and endurance in the lower body while engaging the core for support.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/pelvic_attack.webp",
+            "instructions": "Raise upper body. Engage your core and glutes. Perform controlled hip thrusts, moving your hips forward and back.",
+            "common_mistakes": "Avoid letting your hips sag or raising your body too high during the thrust. Keep your core engaged to maintain stability and prevent lower back strain. Ensure that the motion remains controlled and does not rely on momentum.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Vertical Hip Swing",
+            "category": "Core Mobility",
+            "description": "A dynamic exercise that strengthens the core, lower back, and pelvic muscles by incorporating vertical swinging motions. This exercise focuses on pelvic control and stability, improving flexibility, coordination, and endurance in the lower body and core.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/vertical_hip_swing.webp",
+            "instructions": "Swing your hips up and down. Thrusting upward while keeping your upper body stable.",
+            "common_mistakes": "Avoid letting your hips collapse during the downward swing or using excessive force. Keep the motion controlled and fluid, and engage your core to prevent lower back strain. Ensure that the movement is powered by your hips and pelvis rather than momentum.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Sky Thrust",
+            "category": "Core & Flexibility",
+            "description": "An intense exercise that strengthens the core, lower back, and pelvic muscles by combining a reverse cat-cow pose with upward thrusting movements. This exercise focuses on pelvic mobility, improving flexibility, stability, and core strength, while engaging the entire lower body.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/sky_thrust.webp",
+            "instructions": "Thrust your hips upward toward an imaginary target. Maintain tabletop position. Keep hands and feet stable.",
+            "common_mistakes": "Avoid over-arching your lower back during the upward thrust. Maintain control throughout the movement by engaging your core, and ensure that your hips do not dip too low when returning to the starting position. Avoid using momentum; focus on using your pelvic muscles to perform the thrust.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Advanced Bridges",
+            "category": "Core & Flexibility",
+            "description": "A foundational exercise that strengthens the glutes, lower back, and core by performing a controlled thrusting motion. The glute bridge improves pelvic stability, core strength, and flexibility in the hips, while engaging the entire posterior chain.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/advanced_bridges.webp",
+            "instructions": "Lie on your back with knees bent and feet flat near your glutes. Lift your hips to form a straight line from shoulders to knees. Hold, then lower back down.",
+            "common_mistakes": "Avoid overextending your lower back at the top of the movement. Keep your core engaged throughout to prevent arching, and make sure your knees stay aligned with your hips to avoid strain. Don't use momentum—focus on controlled, smooth movement powered by your glutes.",
+            "duration": "",
+            "repeats": 10
+        },        
+
+        {
+            "title": "Supine Leg Raise",
+            "category": "Core Strength",
+            "description": "This core-strengthening exercise targets the lower abdominal muscles, enhancing core stability and promoting overall strength, which is beneficial for improving posture and supporting overall fitness.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/supine_leg_raise.webp",
+            "instructions": "Lie on your back with legs extended. Lift your legs to a 90-degree angle, then lower them slowly without touching the ground.",
+            "common_mistakes": "Avoid arching your lower back. Keep your legs straight and controlled.",
+            "duration": "",
+            "repeats": 8
+        },
+        {
+            "title": "Plank",
+            "category": "Core Strength",
+            "description": "The Plank strengthens the core muscles, improving posture, stability, and endurance, all of which contribute to better overall fitness and strength.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/plank.png",
+            "instructions": "Lie face down. Lift your body onto your toes and forearms. Keep your body in a straight line from head to heels.",
+            "common_mistakes": "Don't let your hips sag. Keep your body in a straight line and engage your core.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Glute Bridges",
+            "category": "Pelvic Stability",
+            "description": "Glute Bridges specifically target the glutes and pelvic floor muscles, enhancing pelvic stability and control, which supports better overall strength and mobility.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/glute_bridges.webp",
+            "instructions": "Lie on your back with knees bent and feet flat on the floor. Lift your hips towards the ceiling, then lower back down.",
+            "common_mistakes": "Avoid arching your lower back. Keep movements controlled.",
+            "duration": "",
+            "repeats": 15
+        },
+        {
+            "title": "Hip Thrusts",
+            "category": "Lower Body Strength",
+            "description": "Hip Thrusts are designed to strengthen the glutes, hips, and pelvic floor muscles, improving overall lower body strength and stability.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/hip_thrusts.webp",
+            "instructions": "Sit on the ground with your upper back resting on a bench. Roll a barbell or weight over your hips. Push your hips upward and squeeze your glutes at the top.",
+            "common_mistakes": "Avoid arching your lower back. Keep the movement controlled.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Sumo Squat",
+            "category": "Lower Body Strength",
+            "description": "Sumo Squats boost leg and pelvic strength while promoting overall fitness and stability.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/sumo_squat.webp",
+            "instructions": "Stand with feet wider than shoulder-width apart and toes pointed outward. Lower your hips back and down, keeping your knees aligned with your toes. Return to standing position.",
+            "common_mistakes": "Avoid letting knees cave in. Keep your back straight and chest up.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Romanian Deadlifts Right",
+            "category": "Lower Body Strength",
+            "description": "This balance-based exercise strengthens the hamstrings and pelvic floor, improving overall lower body strength and stability.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/romanian_deadlift_right.webp",
+            "instructions": "Stand on one leg, hinge at the hips and lower your torso while extending the other leg back. Return to start and switch legs.",
+            "common_mistakes": "Avoid rounding your back. Keep your movements controlled.",
+            "duration": "",
+            "repeats": 5
+        },
+        {
+            "title": "Frog Thrusts",
+            "category": "Lower Body Strength",
+            "description": "A dynamic exercise that strengthens the lower body, glutes, and pelvic muscles, improving overall control, endurance, and flexibility.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/frog_thrust.webp",
+            "instructions": "Start in a frog position with palms flat and knees touching the ground. Spread your legs wide. Engage your core and thrust your hips rhythmically. Keep your upper body stable.",
+            "common_mistakes": "Avoid using excessive force or letting your lower back arch too much during the thrusts. Maintain control throughout the motion, and ensure your core is engaged to support your lower back and prevent strain.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Standing Toe Touch",
+            "category": "Flexibility",
+            "description": "The Standing Toe Touch improves flexibility in the hamstrings and lower back, which can help improve posture and overall stamina during physical activities.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/standing_toe_touches.gif",
+            "instructions": "Stand with feet hip-width apart and bend forward at the hips to touch your toes. Hold the stretch without bouncing.",
+            "common_mistakes": "Avoid rounding your back. Keep your knees slightly bent.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Butterfly Hip Thrusts",
+            "category": "Lower Body Strength",
+            "description": "Butterfly Hip Thrusts target the glutes and pelvic floor, promoting improved lower body strength and muscle control.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/butterfly_hip_thrusts.webp",
+            "instructions": "Lie down in butterfly pose. Thrust your hips upward, squeezing your glutes. Lower back down.",
+            "common_mistakes": "Avoid arching your lower back excessively. Focus on using your glutes and core to lift your hips.",
+            "duration": "",
+            "repeats": 15
+        }            
+]
+        ,
+    "Cooldown": [
+        {
+            "title": "Standing Quad Stretch Right",
+            "category": "Flexibility",
+            "description": "A stretch focusing on the quadriceps and hips, enhancing flexibility and reducing muscle tension.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/standing_quad_stretch_right.webp",
+            "instructions": "Stand on one leg. Pull the other foot towards your butt with your hand. Keep your knees together. Hold for 10 seconds. Switch legs.",
+            "common_mistakes": "Don't arch your back. Keep knees together. Stretch gently, no pain. Hold onto something if you're wobbly.",
+            "duration": 10,
+            "repeats": ""
+        },
+        {
+            "title": "Cobra Pose",
+            "category": "Stress Releasing",
+            "description": "The Cobra Pose opens the chest and stretches the abdomen, promoting relaxation and reducing tension in the body, which helps in releasing stress after physical activity.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/cobra_pose.webp",
+            "instructions": "Lie face down, push up with your hands, arching your back and stretching your chest.",
+            "common_mistakes": "Don't overextend. keep hips on the ground.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Child's Pose",
+            "category": "Stress Releasing",
+            "description": "This calming yoga posture helps release tension in the lower back and hips, promoting relaxation and reducing stress after intense physical activities.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/childs_pose.webp",
+            "instructions": "Kneel on the floor with toes touching and knees apart. Sit back on your heels and extend your arms forward. Rest your forehead on the floor and breathe deeply. Hold for 20 seconds.",
+            "common_mistakes": "Don't force your forehead to the ground. Keep your arms extended and relaxed. Avoid tensing your shoulders.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Diaphragmatic Breathing",
+            "category": "Stress Reduction",
+            "description": "This breathing exercise focuses on deep, controlled breaths, which help reduce anxiety, lower stress levels, and improve mental clarity after a workout.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/breath-in-and-out.webp",
+            "instructions": "Sit or lie down comfortably. Inhale deeply through the nose, hold briefly, and exhale slowly through the mouth.",
+            "common_mistakes": "Avoid shallow breathing. focus on deep, slow breaths.",
+            "duration": 120,
+            "repeats": ""
+        },
+        {
+            "title": "Spinal Twists",
+            "category": "Stress Releasing",
+            "description": "Spinal Twists relieve tension in the back and shoulders, promoting relaxation and releasing stress after a workout or long day, supporting overall well-being.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/spinal_twist.webp",
+            "instructions": "Lie on your back with arms extended out to the sides. Bend one knee and bring it across your body towards the opposite side. Keep your shoulders on the ground and hold for 20 seconds per side.",
+            "common_mistakes": "Avoid lifting your shoulders off the ground. keep movements slow and controlled to avoid strain.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Standing Toe Touches",
+            "category": "Flexibility",
+            "description": "A stretch that focuses on improving flexibility in the hamstrings and lower back, enhancing overall range of motion and reducing muscle tightness.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/standing_toe_touches.webp",
+            "instructions": "Stand with feet hip-width apart. Reach down towards your toes, keeping your legs straight. Hold for 10 seconds, then slowly return to the starting position.",
+            "common_mistakes": "Avoid bouncing. reach down slowly and maintain a straight back.",
+            "duration": "",
+            "repeats": 10
+        },
+        {
+            "title": "Chair Pose",
+            "category": "Strength Building",
+            "description": "The Chair Pose engages the lower body and core, promoting muscle growth and overall physical strength.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/chair_pose.webp",
+            "instructions": "Stand with feet together, bend your knees and lower your hips as if sitting in a chair. Hold the position with your arms extended overhead.",
+            "common_mistakes": "Avoid letting your knees cave inward. keep your weight in your heels.",
+            "duration": 20,
+            "repeats": ""
+        },
+        {
+            "title": "Cat-Cow Pose",
+            "category": "Stress Reduction",
+            "description": "This gentle yoga pose helps reduce stress by improving flexibility in the spine and promoting relaxation. It's ideal for reducing tension and promoting mental focus after a workout.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/cat_cow.webp",
+            "instructions": "Start on hands and knees in tabletop position. Inhale, arch your back (Cow Pose). Exhale, round your back (Cat Pose). Repeat 12 times, coordinating with your breath.",
+            "common_mistakes": "Don't rush. move slowly and with control. Avoid straining your neck. keep it relaxed. Keep your movements fluid, not jerky. Focus on deep breathing for better results.",
+            "duration": "",
+            "repeats": 12
+        },
+        {
+            "title": "Hold and Release Kegel",
+            "category": "Strength and Endurance",
+            "description": "Pelvic floor exercises improve core strength and endurance, contributing to overall health and physical performance.",
+            "image": "https://jahangirnn.github.io/Exercise-gif/exercises/kegal_animation.webp",
+            "instructions": "Sit or lie down comfortably. Tighten the muscles you'd use to stop urination. Hold and release.",
+            "common_mistakes": "Avoid using your stomach or leg muscles. Focus on pelvic muscles only.",
+            "duration": 20,
+            "repeats": ""
+        }        
+    ]
+}
